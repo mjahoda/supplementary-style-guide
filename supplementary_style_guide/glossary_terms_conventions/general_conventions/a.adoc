@@ -83,6 +83,19 @@ For more information about Intel® trademarks, see the http://www.intel.com/cont
 
 *See also*:
 
+
+[discrete]
+[[as-expected]]
+==== image:images/no.png[no] alright (adjective)
+*Description*: "Expectations are relative, prefer using "correctly" instead."
+
+*Use it*: no
+
+*Incorrect forms*:
+
+*See also*:
+
+
 [discrete]
 [[asynchronous-transfer-mode]]
 ==== image:images/yes.png[yes] Asynchronous Transfer Mode (noun)
